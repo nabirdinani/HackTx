@@ -2,7 +2,7 @@
   
   First time set up
   
-    $  git clone https://github.com/jaideng123/315-DBMS-Project.git
+    $  git clone https://github.com/nabirdinani/HackTx.git
     
   Before you start working on anything
   
